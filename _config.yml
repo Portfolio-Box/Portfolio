@@ -1,0 +1,42 @@
+# Site Settings
+title: FERNANDO | Web personal
+email: ferchucorinaldesi@gmail.com
+description: Post para el blog personal.
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://fernandocorinaldesi.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Portfolio de proyectos
+user_description: Developer full stack.
+disqus_username: Portfolio de proyectos
+
+# Social Media
+# Remove the item if you don't need it
+
+facebook_username: fernandocorinaldesi
+instagram_username: fernandocorinaldesi
+linkedin_username: fernandocorinaldesi/
+# medium_username: medium_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Inicio
+    url: /
+  - title: Acerca de mi
+    url: /about/
+  - title: Contacto
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
