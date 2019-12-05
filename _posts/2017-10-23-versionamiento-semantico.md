@@ -17,6 +17,8 @@ introduction:
 
 ![screenshoot](https://i.ibb.co/B3wnWQY/regturnot.jpg)
 
+![screenshoot](https://i.ibb.co/JBhZJZc/gestdoc.jpg)
+
 
 ### Descripcion
 Trabajo practico N°2 de la materia Taller de programacion, perteneciente a la carrea Analista de Programacion de la UNPAZ.
