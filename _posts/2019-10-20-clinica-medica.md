@@ -2,7 +2,7 @@
 layout: post
 title: "Sistema Clinica medica"
 description: 
-image: 'https://i.ibb.co/YQzBY2T/SISTEMAC.jpg'
+image: 'https://i.ibb.co/ts6DWBV/gestionprincipal2.jpg'
 category: 'Proyectos'
 tags:
 
