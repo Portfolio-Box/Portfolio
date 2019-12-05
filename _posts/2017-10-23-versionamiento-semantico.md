@@ -1,9 +1,8 @@
 ---
 layout: post
-title:"Sistema Clinica medica"
-date: 2017-10-30
+title: "Sistema Clinica medica"
 description: 
-image: 'https://i.ibb.co/YQzBY2T/SISTEMAC.jpg'
+image: 'https://i.ibb.co/25CtJ3f/clinica.jpg'
 category: 'Proyectos'
 tags:
 
