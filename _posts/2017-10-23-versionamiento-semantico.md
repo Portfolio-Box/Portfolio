@@ -13,7 +13,9 @@ introduction:
 
 ![screenshoot](https://i.ibb.co/RctDwGF/gestiot.jpg)
 
-![screenshoot](https://i.ibb.co/YbX9Fdy/regturnot.jpg)
+![screenshoot](https://i.ibb.co/6rkpSC9/turnodradic.jpg)
+
+![screenshoot](https://i.ibb.co/B3wnWQY/regturnot.jpg)
 
 
 ### Descripcion
