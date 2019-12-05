@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sistema Clinica medica"
+title: "    Sistema Clinica medica"
 description: 
 image: 'https://i.ibb.co/YQzBY2T/SISTEMAC.jpg'
 category: 'Proyectos'
