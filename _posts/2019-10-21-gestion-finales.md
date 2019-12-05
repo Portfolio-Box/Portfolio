@@ -2,7 +2,7 @@
 layout: post
 title: "Sistema gestion de finales"
 description: 
-image: 'https://i.ibb.co/HKPtLPS/principal.jpg'
+image: 'https://i.ibb.co/9nBcRGn/principal.jpg'
 category: 'Proyectos'
 tags: sistema
 
