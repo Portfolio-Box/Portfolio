@@ -9,7 +9,7 @@ tags:
 twitter_text: 
 introduction: 
 ---
-![screenshoot](https://i.ibb.co/25CtJ3f/clinica.jpg)
+![screenshoot](https://i.ibb.co/mCK4Xq5/gestionp.jpg)
 ### Descripcion
 Trabajo practico N°2 de la materia Taller de programacion, perteneciente a la carrea Analista de Programacion de la UNPAZ.
 
