@@ -17,7 +17,7 @@ introduction:
 
 ![screenshoot](https://i.ibb.co/B3wnWQY/regturnot.jpg)
 
-![screenshoot](https://i.ibb.co/JBhZJZc/gestdoc.jpg)
+![screenshoot](https://i.ibb.co/b3fqPgk/gestdoc.jpg)
 
 
 ### Descripcion
