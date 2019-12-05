@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Editor de imagenes"
-date: 2017-08-14 22:55:45
+date: 2019-08-14 22:55:45
 image: 'https://i.ibb.co/TL9SRq8/editor.jpg'
 description: 
 category: 'Proyectos '
