@@ -2,28 +2,23 @@
 layout: post
 title: "Sistema Clinica medica"
 description: 
-image: 'https://i.ibb.co/XkffgbN/login2.jpg'
+image: 'https://i.ibb.co/F7s3D1r/modulos.jpg'
 category: 'Proyectos'
 tags:
 
 twitter_text: 
 introduction: 
 ---
-![screenshoot](https://i.ibb.co/mCK4Xq5/gestionp.jpg)
+![screenshoot](https://i.ibb.co/9vC95cZ/login.jpg)
 
-![screenshoot](https://i.ibb.co/RctDwGF/gestiot.jpg)
+![screenshoot](https://i.ibb.co/xLFjQH8/pacientes.jpg)
 
-![screenshoot](https://i.ibb.co/6rkpSC9/turnodradic.jpg)
-
-![screenshoot](https://i.ibb.co/B3wnWQY/regturnot.jpg)
-
-![screenshoot](https://i.ibb.co/b3fqPgk/gestdoc.jpg)
+![screenshoot](https://i.ibb.co/sjS3RbT/turnos.jpg)
 
 
 ### Descripcion
-Trabajo practico N°2 de la materia Taller de programacion, perteneciente a la carrea Analista de Programacion de la UNPAZ.
+Pequeño sistema para una clínica o consultorio. Posee login y 3 modulos distintos: recepcionista,medicos y admin. El proyecto esta en desarrollo, por lo que solo el modulo recepcionista posee funcionalidades.
 
-Este trabajo consiste en el desarrollo de un sistema para una clinica medica
 
 
 
@@ -31,4 +26,6 @@ Este trabajo consiste en el desarrollo de un sistema para una clinica medica
 
 * JavaSE8
 * Swing
+* Mysql
+* jcalendar 1.4
 
