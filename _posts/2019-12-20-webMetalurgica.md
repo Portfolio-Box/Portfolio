@@ -13,7 +13,7 @@ introduction:
 
 
 ### Descripcion
-Diseño web realizado para una fabrica metalurgica en al zona de san miguel.
+Diseño web realizado para una fabrica metalurgica en la zona de san miguel.
 
 ### Tecnologias
 
