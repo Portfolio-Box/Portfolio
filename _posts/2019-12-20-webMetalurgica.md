@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Web fabrica metalurgica"
-date: 2017-10-30
+date: 2019-12-20
 description: 
 image: 'https://i.ibb.co/th4C1SF/webmetalurgica.jpg'
 category: 'Proyectos'
