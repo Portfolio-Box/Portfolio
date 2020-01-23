@@ -15,6 +15,8 @@ introduction:
 
 ![screenshoot](https://i.ibb.co/sjS3RbT/turnos.jpg)
 
+![screenshoot](https://i.ibb.co/8Mhrcb2/admin.jpg)
+
 
 ### Descripcion
 Pequeño sistema para una clínica o consultorio. Posee login y 3 modulos distintos: recepcionista,medicos y admin. El proyecto esta en desarrollo, por lo que solo el modulo recepcionista posee funcionalidades.
@@ -29,3 +31,6 @@ Pequeño sistema para una clínica o consultorio. Posee login y 3 modulos distin
 * Mysql
 * jcalendar 1.4
 
+### Youtube
+
+[https://www.youtube.com/watch?v=11FOIdyW7k4](https://www.youtube.com/watch?v=11FOIdyW7k4)
